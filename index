@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+   <meta charset= "utf-8"  
+     </head>
+
+     <body>
+       <h1></h1>
+     </body>
+
+</html>
+<h3>esto es un h3</h3>
+<h4>esto es un h4</h4>
+<h5>esto es un h5</h5>
+<h6>esto es un h6</h6>
+
+    <br>
+
+<p> Esto es un párrafo normal el HTML </p>
+</p>
+<p> <b> letras en Negrias </b>
+<p> <i> Letras en italica </i> </p>
+
+    <br>
+
+    <h3> Order list</h3>
+    <ol>
+      <li> Matematicas </li>
+      <li> Historia </li>
+      <li> Educacion fisica </li>
+      <li> Español </li>
+      <li> Ingles </li>
+      <li> Informatica </li>
+    </ol>
+     <br>
+     <br>
+     <br>
+     <h3> Unorder list </h3>
+     <ul>
+       
+      <li> Azul </li>
+      <li> Morado </li>
+      <li> Rojo </li>
+      <li> Turquesa </li>
+      <li> Amarillo </li>
+      <li> Blanco </li>
+    </ul> 
+  <!-- Comentario -->
+</body>
+
+ <img src="cheems.jfif" alt="cheems dibujo" width="250px">
+
+ CSS
+ cuerpo {
+   color de fondo: #FFDFDF;
+ }
+
+ h1 {
+   color rojo;
+   alineación de texto: centro;
+ }
+
+ h2 {
+   color turquesa;
+   alineación de texto: derecha;
+ }
+
+ .títulos {
+   color de fondo: #f5f5f5;
+   alineación de texto: centro;
+ }
+
+ imagen {
+   ancho: 300px;
+   altura: 300 píxeles;
+   margen: 10px;
+   ajuste de objeto: cubierta;
+ }
